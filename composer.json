@@ -1,0 +1,10 @@
+{
+    "name": "mabuno/pennysbot",
+    "type": "Telegram Bot for mabuno",
+    "require": {
+        "php": ">=5.6",
+        "longman/telegram-bot": "*",
+	"vlucas/phpdotenv": "^2.2",
+	"guzzlehttp/guzzle": "~6.0"	
+    }
+}
